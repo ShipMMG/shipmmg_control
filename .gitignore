@@ -144,3 +144,8 @@ static
 
 # vscode project settings
 .vscode
+
+# for this project
+notebooks/results
+notebooks/*.png
+notebooks/*.gif
