@@ -17,7 +17,7 @@ This repository is just for testing MPC control of ShipMMG.
 1. Build.
     ```sh
     $ cd shipmmg_control
-    $ docker-compose build
+    $ docker-compose build # --no-cache if nessecary
     ```
 
 1. Run.
